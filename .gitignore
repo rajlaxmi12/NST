@@ -5,3 +5,5 @@ experiment/
 static/uploads/ 
 content_data/ 
 style_data/ 
+!decoder.pth 
+!vgg_normalised.pth 
