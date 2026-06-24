@@ -6,4 +6,4 @@ werkzeug
 Pillow
 torch
 torchvision
-gunicornrn
+gunicorn
